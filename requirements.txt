@@ -1,0 +1,9 @@
+onnx
+onnxruntime
+pandas
+google-cloud-storage
+google-cloud-pubsub
+xgboost==1.5.2 
+cloudpickle
+dlacc==1.9
+nose
